@@ -1,0 +1,46 @@
+
+/* Section.js Css */
+.move{
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid red;
+  background-color: black;
+  width: 50%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.move h2{
+  font-size: 20px;
+  color: rgb(226, 199, 143);
+}
+.move img{
+  width: 20%;
+}
+
+
+.btn2{
+  background-color: blue;
+  color: white;
+  width: 20rem;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  padding: 0.8em;
+  margin-left: 35em;
+  text-align: center;
+  cursor: pointer;
+}
+
+.delBtn{
+  width: 7em;
+  padding: 0.8em;
+  border-radius: 4em;
+  cursor: pointer;
+}
+
+@media(max-width: 668px){
+  .btn{
+    display: none;
+  }
+}
+
